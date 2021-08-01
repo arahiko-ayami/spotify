@@ -1,10 +1,10 @@
 # @distube/spotify
 
-A DisTube custom plugin for supporting Spotify URL.
+A DisTube custom plugin for supporting Spotify URL. Upgraded to support new Distube >= v3.0.0alpha/beta
 
 ## Status: beta
 
-Requires DisTube v3.0.0-beta
+Requires DisTube v3.0.0-beta/alpha
 
 # Feature
 

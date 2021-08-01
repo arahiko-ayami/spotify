@@ -1,5 +1,5 @@
 {
-  "name": "@distube/spotify",
+  "name": "@arahiko/spotify",
   "version": "0.4.1",
   "description": "A DisTube custom plugin for supporting Spotify.",
   "main": "index.js",
@@ -46,7 +46,7 @@
     "spotify-url-info": "^2.2.3"
   },
   "peerDependencies": {
-    "distube": "^3.0.0-beta"
+    "distube": "3||^3.0.0-0"
   },
   "lint-staged": {
     "*.js": [
