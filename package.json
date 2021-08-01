@@ -1,5 +1,5 @@
 {
-  "name": "@arahiko/spotify",
+  "name": "@arahiko-ayami/spotify",
   "version": "0.4.1",
   "description": "A DisTube custom plugin for supporting Spotify.",
   "main": "index.js",
